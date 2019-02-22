@@ -15,6 +15,7 @@ import sys
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options
 import csv
+import os
 
 def scrape(player):
     f = "./Tenis_Stats.csv"
