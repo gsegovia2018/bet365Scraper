@@ -22,6 +22,9 @@ from selenium.common.exceptions import TimeoutException
 import pandas as pd
 from selenium.webdriver.firefox.options import Options
 from tenisStatsScraper import scrape
+from futStatsScraper import scrapefut
+from difflib import SequenceMatcher
+import unidecode
 
 options = Options()
 options.headless = True # Esto es para que no se habra la ventana de firefox
@@ -61,6 +64,7 @@ except TimeoutException:
     sys.exit()
 
 if (sport == "futbol") or (sport == "fútbol") or (sport == "fut") or (sport == "football"):
+    futStats = scrapefut()
     # Nos vamos a la pestaña futbol y dentro de futbol a España
     try:
         browser.find_element(By.XPATH, '/html/body/div[1]/div/div[2]/div[1]/div/div[1]/div/div/div[15]').click()
@@ -98,34 +102,66 @@ if (sport == "futbol") or (sport == "fútbol") or (sport == "fut") or (sport == 
     equipoLocal = []
     equipoVisitante = []
     torneo = []
+    homeRank = []
+    awayRank = []
+    homeGoals = []
+    homePossession = []
+    homePasses = []
+    homeAerialWon = []
+    homeRating = []
+    awayGoals = []
+    awayPossession = []
+    awayPasses = []
+    awayAerialWon = []
+    awayRating = []
     # Puede haber varias competiciones, cogemos la liga que es la primera, es facil ampliarlo para todas
     torneos = soup.find_all('div', class_='gl-MarketGroup cm-CouponMarketGroup cm-CouponMarketGroup_Open')
     for trn in torneos:
-        # Buscamos las cuotas
-        cuotaHtml = trn.find_all('span', class_="gl-ParticipantOddsOnly_Odds")
-        cuota = [cuot.get_text() for cuot in cuotaHtml]
-        numeroPartidos = len(cuota)//3
-        # y las insertamos en nuestras variables
-        wins.extend((cuota[0:numeroPartidos]))
-        draws.extend((cuota[numeroPartidos:int(2)*numeroPartidos]))
-        loss.extend(cuota[int(2)*numeroPartidos:int(3)*numeroPartidos])
-        # Buscamos el nombre del torneo
         t = trn.find('span', class_='cm-CouponMarketGroupButton_Text').get_text().split('-')[1]
-        # Buscamos el nombre de los dos tenistas
-        equiposHtml = trn.find_all('div', class_= 'sl-CouponParticipantWithBookCloses_NameContainer')
-        for i, eq in enumerate(equiposHtml):
-            equipo = eq.get_text().split(' v ')
-            if len(equipo) == 2:
-                # Añadimos el primer tenista a ten_1
-                equipoLocal.extend([equipo[0]])
-                # Añadimos el segundo tenista a ten_2
-                equipoVisitante.extend([equipo[1]])
-                # Metemos el nombre del torneo por cada partido que haya
-                torneo.extend([t])
-            else:
-                del wins[i]
-                del draws[i]
-                del loss[i]       
+        if('1' not in t):
+            break
+        else:
+            # Buscamos las cuotas
+            cuotaHtml = trn.find_all('span', class_="gl-ParticipantOddsOnly_Odds")
+            cuota = [cuot.get_text() for cuot in cuotaHtml]
+            numeroPartidos = len(cuota)//3
+            # y las insertamos en nuestras variables
+            wins.extend((cuota[0:numeroPartidos]))
+            draws.extend((cuota[numeroPartidos:int(2)*numeroPartidos]))
+            loss.extend(cuota[int(2)*numeroPartidos:int(3)*numeroPartidos])
+            # Buscamos el nombre del torneo
+            # Buscamos el nombre de los dos tenistas
+            equiposHtml = trn.find_all('div', class_= 'sl-CouponParticipantWithBookCloses_NameContainer')
+            for i, eq in enumerate(equiposHtml):
+                equipo = eq.get_text().split(' v ')
+                if len(equipo) == 2:
+                    # Añadimos el primer tenista a ten_1
+                    equipoLocal.extend([equipo[0]])
+                    # Añadimos el segundo tenista a ten_2
+                    equipoVisitante.extend([equipo[1]])
+                    # Metemos el nombre del torneo por cada partido que haya
+                    torneo.extend([t])
+                    # SequenceMatcher(None, a, b).ratio()
+                    equipo[0] = unidecode.unidecode(equipo[0].lower().replace('de',' ').replace('real',' ').replace(' ',''))
+                    equipo[1] = unidecode.unidecode(equipo[1].lower().replace('de',' ').replace('real',' ').replace(' ',''))
+                    homeStats = futStats.loc[futStats['team'] == equipo[0]]
+                    awayStats = futStats.loc[futStats['team'] == equipo[1]]
+                    homeRank.extend(homeStats['rank'].values)
+                    awayRank.extend(awayStats['rank'].values)
+                    homeGoals.extend(homeStats['goals'].values)
+                    homePossession.extend(homeStats['possession%'].values)
+                    homePasses.extend(homeStats['passes%'].values)
+                    homeAerialWon.extend(homeStats['aerialWon%'].values)
+                    homeRating.extend(homeStats['rating'].values)
+                    awayGoals.extend(awayStats['goals'].values)
+                    awayPossession.extend(awayStats['possession%'].values)
+                    awayPasses.extend(awayStats['passes%'].values)
+                    awayAerialWon.extend(awayStats['aerialWon%'].values)
+                    awayRating.extend(awayStats['rating'].values)
+                else:
+                    del wins[i]
+                    del draws[i]
+                    del loss[i]       
     # Definimos el Dataframe
     df = pd.DataFrame()
     df['Equipo Local'] = equipoLocal
@@ -134,8 +170,20 @@ if (sport == "futbol") or (sport == "fútbol") or (sport == "fut") or (sport == 
     df['1'] = wins
     df['X'] = draws
     df['2'] = loss
-    df.to_csv(r'C:\Users\Marcos\Documents\Python\bet365Scraper\futbol_csv\cuotas_futbol_' + str(datetime.datetime.now().strftime("%Y_%m_%d")) + '.csv',index=False)
+    df['HR'] = homeRank
+    df['HG'] = homeGoals
+    df['HP'] = homePossession
+    df['HPA'] = homePasses
+    df['HAE'] = homeAerialWon
+    df['HRA'] = homeRating
+    df['AR'] = awayRank    
+    df['AG'] = awayGoals    
+    df['AP'] = awayPossession    
+    df['APA'] = awayPasses    
+    df['AAE'] = awayAerialWon    
+    df['ARA'] = awayRating
     print(df.to_string())
+    df.to_csv(r'C:\Users\Marcos\Documents\Python\bet365Scraper\futbol_csv\cuotas_futbol_' + str(datetime.datetime.now().strftime("%Y_%m_%d")) + '.csv',index=False)
 
 if(sport == "tennis") or (sport == "tenis") or (sport == "ten"):
     # Definimos 4 variables, la primera tendra los primeros tenistas la segunda los segundos, la tercera la cuota del primer

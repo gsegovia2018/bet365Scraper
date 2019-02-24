@@ -5065,4 +5065,1230 @@ JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1
 [Ch[Child 13532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
 [Child 135[Parent 224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
 [Child 4276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
-[Child 4
+[Child 41550839177947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.j9hloPhbMUEp"
+*** You are running in headless mode.
+1550839178617	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550839178617	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550839180350	Marionette	INFO	Listening on port 59258
+1550839180714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550839197310	Marionette	INFO	Stopped listening on port 59258
+[Child 12384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12384, Chrome_ChildThread] WARNING: pipe error: 109: f[Child 6160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child1550839204279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.hSyNZy6Myr9F"
+*** You are running in headless mode.
+1550839204710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550839204710	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550839206333	Marionette	INFO	Listening on port 59299
+1550839206408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550839221248	Marionette	INFO	Stopped listening on port 59299
+[Child 14588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Ch[Parent 3540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child1550839227705	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.1U5MZvrTYnyU"
+*** You are running in headless mode.
+1550839228129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550839228129	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550839229777	Marionette	INFO	Listening on port 59339
+1550839229833	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550839235708	Marionette	INFO	Stopped listening on port 59339
+[Parent 14956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6224, Chrome_ChildThread] WARN[Child 9372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9372,[Parent 14956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1151550839836756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.ko61HzMTlwip"
+*** You are running in headless mode.
+1550839837266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550839837266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550839839220	Marionette	INFO	Listening on port 59452
+1550839839543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+arning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=978263535, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=978263535, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=978263535 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=698973647, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=698973647 line 1 > eval, line 1: unreachable code after return statement
+1550839853381	Marionette	INFO	Stopped listening on port 59493
+[Parent 14260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15[Child 1928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1928, Chro[Parent 14260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7152, Ch
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550839876386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.kPtHrJpdNWdK"
+*** You are running in headless mode.
+1550839876899	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550839876900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550839878847	Marionette	INFO	Listening on port 59559
+1550839879160	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+arning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=397733884, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=397733884 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1594843006, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1594843006, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1594843006 line 1 > eval, line 1: unreachable code after return statement
+1550839891595	Marionette	INFO	Stopped listening on port 59599
+[Parent 6616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc[Parent 6616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8824, C[Parent 6616, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 95
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550839936253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.gZ76Ru6dKxuE"
+*** You are running in headless mode.
+1550839936771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550839936771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550839938563	Marionette	INFO	Listening on port 59661
+1550839939019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550839947930	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\App1550839956915	Marionette	INFO	Stopped listening on port 59661
+[Parent 14312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1128rmission: about:reader*
+1550839950520	Marionette	INFO	Listening on port 59703
+1550839950682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2119587058, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2119587058 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=274470769, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=274470769, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=274470769 line 1 > eval, line 1: unreachable code after return statement
+1550839953822	Marionette	INFO	Stopped listening on port 59703
+[Child 13272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13[Parent 11788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12452, Chr[Parent 11788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550840047469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.0MBSUNLww16A"
+*** You are running in headless mode.
+1550840047977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550840047977	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550840049904	Marionette	INFO	Listening on port 59772
+1550840050240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550840069599	Marionette	INFO	Stopped listening on port 59772
+[Child 10056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1[Parent 1716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4196, C[Parent 1716, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11788, Che is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=253767184, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=253767184, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=253767184 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=2071389146, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=2071389146, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=2071389146 line 1 > eval, line 1: unreachable code after return statement
+1550840064679	Marionette	INFO	Stopped listening on port 59813
+[Child 7740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7740, Chrome_ChildThread][Parent 14436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550840118658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.vaP1try6ou5G"
+*** You are running in headless mode.
+1550840119189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550840119189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550840121222	Marionette	INFO	Listening on port 59883
+1550840121459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550840129487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\App1550840138389	Marionette	INFO	Stopped listening on port 59883
+[Child 13564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrom[Parent 15852, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1522[Child 13592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13592, Chrome_4, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1325099669, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1325099669, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1325099669 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=2075747100, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=2075747100, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=2075747100 line 1 > eval, line 1: unreachable code after return statement
+1550840135738	Marionette	INFO	Stopped listening on port 59931
+[Parent 15356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
+[Parent 15356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10104, Chrome_[Parent 15356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550840180374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.sgdOcnDa2kad"
+*** You are running in headless mode.
+1550840180790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550840180790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550840182472	Marionette	INFO	Listening on port 60000
+1550840182533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+arning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2072793793, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2072793793, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2072793793 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=204495137, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=204495137, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=204495137 line 1 > eval, line 1: unreachable code after return statement
+1550840195291	Marionette	INFO	Stopped listening on port 60040
+[Child 17012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1701IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 12452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 12452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500B9,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 12452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550840235814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.4VGPg1GxNZ2G"
+*** You are running in headless mode.
+1550840236351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550840236351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550840238034	Marionette	INFO	Listening on port 60101
+1550840238099	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550840257405	Marionette	INFO	Stopped listening on port 60101
+[Child 16860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16860, Chrome_ChildThread] WARN[Parent 16496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+//pdf.js/
+1550840245626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550840247987	Marionette	INFO	Listening on port 60143
+1550840248414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1699404111, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1699404111, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1699404111 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1831707843, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1831707843, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1831707843 line 1 > eval, line 1: unreachable code after return statement
+1550840254835	Marionette	INFO	Stopped listening on port 60143
+[Parent 16552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16[Parent 16552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 232, Chrome
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 171
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550840344595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.4fFfuWBRPusj"
+*** You are running in headless mode.
+1550840345114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550840345114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550840346959	Marionette	INFO	Listening on port 60213
+1550840347351	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550840378004	Marionette	INFO	Stopped listening on port 60213
+[Parent 16328, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child alid host permission: resource://pdf.js/
+1550840366472	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550840368621	Marionette	INFO	Listening on port 60256
+1550840368727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2116804055, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2116804055, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2116804055 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=691614878, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=691614878, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=691614878 line 1 > eval, line 1: unreachable code after return statement
+1550840375432	Marionette	INFO	Stopped listening on port 60256
+[Parent 16664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17348, [Parent 16664, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550840485018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.GEl62nCDZq7x"
+*** You are running in headless mode.
+1550840485553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550840485553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550840487495	Marionette	INFO	Listening on port 60335
+1550840487755	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550840507546	Marionette	INFO	Stopped listening on port 60335
+[Parent 14384, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+zprofile.5Mc2vSo0bJr7"
+1550840495980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550840495980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550840498059	Marionette	INFO	Listening on port 60376
+1550840498264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1972580175, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1972580175, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1972580175 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1603430075, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1603430075, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1603430075 line 1 > eval, line 1: unreachable code after return statement
+1550840504861	Marionette	INFO	Stopped listening on port 60376
+[Parent 9568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16592, Chro[Child 5740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5740, Chrom[Parent 9568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550840623995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.1gcEoQVN18D5"
+*** You are running in headless mode.
+1550840624533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550840624533	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550840626538	Marionette	INFO	Listening on port 60449
+1550840626735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550840647736	Marionette	INFO	Stopped listening on port 60449
+[Parent 4724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17288, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1[Parent 4724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+la.org': Reading manifest: Invalid host permission: about:reader*
+1550840638070	Marionette	INFO	Listening on port 60490
+1550840638190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1671423671, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1671423671, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1671423671 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=446215992, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=446215992, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=446215992 line 1 > eval, line 1: unreachable code after return statement
+1550840645068	Marionette	INFO	Stopped listening on port 60490
+[Child 8768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8[Parent 17404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16664, Chrome_ChildThr[Child 16584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16584, Chro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550840666872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.HegB3r6OLsRx"
+*** You are running in headless mode.
+1550840667373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550840667373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550840669306	Marionette	INFO	Listening on port 60551
+1550840669644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550840693466	Marionette	INFO	Stopped listening on port 60551
+[Child 16948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16948, Chr[Parent 17036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+permission: resource://pdf.js/
+1550840681653	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550840683846	Marionette	INFO	Listening on port 60592
+1550840683945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=267115068, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=267115068, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=267115068 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=540734076, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=540734076, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=540734076 line 1 > eval, line 1: unreachable code after return statement
+1550840690500	Marionette	INFO	Stopped listening on port 60592
+[Parent 16420, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome[Child 16788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16788, Chro
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550840769100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.ks6oSH3xkkCo"
+*** You are running in headless mode.
+1550840769539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550840769539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550840771324	Marionette	INFO	Listening on port 60658
+1550840771375	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550840790831	Marionette	INFO	Stopped listening on port 60658
+[Parent 13596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bu[Child 13792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13792, Marionette	INFO	Listening on port 60700
+1550840781388	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=703497665, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=703497665, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=703497665 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1458328122, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1458328122 line 1 > eval, line 1: unreachable code after return statement
+1550840788285	Marionette	INFO	Stopped listening on port 60700
+[Parent 17036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1216, Chrome_ChildT[Parent 17036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16824, C[Parent 17036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550840953272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.LHWc5KVKolrr"
+*** You are running in headless mode.
+1550840953846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550840953846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550840955623	Marionette	INFO	Listening on port 60781
+1550840956018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550840978202	Marionette	INFO	Stopped listening on port 60781
+[Parent 9840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16860, Chrome_ChildThread][Parent 9840, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17244 ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1664990598, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1664990598, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1664990598 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1557505405, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1557505405, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1557505405 line 1 > eval, line 1: unreachable code after return statement
+1550840972957	Marionette	INFO	Stopped listening on port 60822
+[Child 16784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16784,[Parent 10600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12864, Chrome_C[Parent 10600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9872, Chrome_ChildThread] WARNING: pipe error: 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550841025544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.fH5S34BiZ4Jp"
+*** You are running in headless mode.
+1550841026055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550841026055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550841027871	Marionette	INFO	Listening on port 60888
+1550841028286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550841054091	Marionette	INFO	Stopped listening on port 60888
+[Child 8028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8028, Ch[Parent 7860, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9444, Chromenvalid host permission: about:reader*
+1550841044240	Marionette	INFO	Listening on port 60928
+1550841044736	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1435388967, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1435388967, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1435388967 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1812561235, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1812561235, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1812561235 line 1 > eval, line 1: unreachable code after return statement
+1550841051310	Marionette	INFO	Stopped listening on port 60928
+[Parent 12128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 12128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550841098200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.wnerJCYdadpI"
+*** You are running in headless mode.
+1550841098717	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550841098717	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550841100619	Marionette	INFO	Listening on port 60992
+1550841100990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550841139203	Marionette	INFO	Stopped listening on port 60992
+[Child 16004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1600[Parent 9916, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16 manifest: Invalid host permission: about:reader*
+1550841129485	Marionette	INFO	Listening on port 61034
+1550841129965	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=568486766, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=568486766, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=568486766 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=757075822, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=757075822, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=757075822 line 1 > eval, line 1: unreachable code after return statement
+1550841136686	Marionette	INFO	Stopped listening on port 61034
+[Child 16632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bu[Parent 16900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16900, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550841243316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.RvITvs56LOXf"
+*** You are running in headless mode.
+1550841243827	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550841243827	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550841245705	Marionette	INFO	Listening on port 61106
+1550841246091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550841266398	Marionette	INFO	Stopped listening on port 61106
+[Child 14040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1404[Parent 16912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16912, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4036ificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2103668868, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1532504443, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1532504443, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1532504443 line 1 > eval, line 1: unreachable code after return statement
+1550841263648	Marionette	INFO	Stopped listening on port 61148
+[Child 17368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17368, Chrome_ChildThreIPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 17040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 17040, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550841355058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.24dxxvJeZqXu"
+*** You are running in headless mode.
+1550841355496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550841355496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550841357147	Marionette	INFO	Listening on port 61216
+1550841357228	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550841378294	Marionette	INFO	Stopped listening on port 61216
+[Parent 14552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8884, Chrome_ChildThr[Parent 14552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1724[Parent 14552, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 87reachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1651065958, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1651065958, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1651065958 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1162362486, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1162362486 line 1 > eval, line 1: unreachable code after return statement
+1550841375438	Marionette	INFO	Stopped listening on port 61256
+[Parent 17344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13560, Chrome_[Parent 17344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1663
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550841864384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.vL8YEpgnlD0p"
+*** You are running in headless mode.
+1550841865297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550841865297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550841867381	Marionette	INFO	Listening on port 61397
+1550841867863	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550841886734	Marionette	INFO	Stopped listening on port 61397
+[Child 17284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child[Child 11744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11744, Chromea.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550841875631	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550841877338	Marionette	INFO	Listening on port 61437
+1550841877426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1484106732, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1484106732, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1484106732 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=390652169, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=390652169 line 1 > eval, line 1: unreachable code after return statement
+1550841883883	Marionette	INFO	Stopped listening on port 61437
+[Parent 8180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7181550863066565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.ppxCqxTUy735"
+*** You are running in headless mode.
+1550863067081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550863067081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550863069005	Marionette	INFO	Listening on port 62339
+1550863069351	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550863095664	Marionette	INFO	Stopped listening on port 62339
+[Parent 2092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17232, Chrome_[Parent 2092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16952, Chrome_ChildThrearionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1932757079, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1932757079 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1887797921, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1887797921, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1887797921 line 1 > eval, line 1: unreachable code after return statement
+1550863093204	Marionette	INFO	Stopped listening on port 62380
+[Parent 17908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1801550863330605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.sO7835Q8ZpNR"
+*** You are running in headless mode.
+1550863331061	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550863331062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550863332700	Marionette	INFO	Listening on port 62481
+1550863332787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1064062715, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1064062715 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1985548452, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1985548452 line 1 > eval, line 1: unreachable code after return statement
+1550863340952	Marionette	INFO	Stopped listening on port 62481
+[Child 12852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child[Child 13792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 131550863362970	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.pvN76J5GbgA7"
+*** You are running in headless mode.
+1550863363392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550863363392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550863365099	Marionette	INFO	Listening on port 62540
+1550863365210	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=267314867, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=626192171, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=626192171, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=626192171 line 1 > eval, line 1: unreachable code after return statement
+1550863372314	Marionette	INFO	Stopped listening on port 62540
+[Child 9312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9312, Chrome_ChildThread] WARNING: pipe [Parent 2596, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1836[Child 17560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 171550863521772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.i0czWZTfBIr1"
+*** You are running in headless mode.
+1550863522209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550863522209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550863523854	Marionette	INFO	Listening on port 62635
+1550863523915	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1088082030, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1088082030 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=405314478, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=405314478, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=405314478 line 1 > eval, line 1: unreachable code after return statement
+1550863531446	Marionette	INFO	Stopped listening on port 62635
+1550863683337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.1JZapvOg6bAM"
+*** You are running in headless mode.
+1550863683789	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550863683790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550863686054	Marionette	INFO	Listening on port 62721
+1550863686104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1471039307, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1471039307 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1894943767, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1894943767, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1894943767 line 1 > eval, line 1: unreachable code after return statement
+1550863694133	Marionette	INFO	Stopped listening on port 62721
+[Parent 17636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 17636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550863787636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.y7DMmCoDVIKy"
+*** You are running in headless mode.
+1550863788141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550863788141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550863789867	Marionette	INFO	Listening on port 62810
+1550863789911	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550863811118	Marionette	INFO	Stopped listening on port 62810
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.KOlpvRtyuOBJ"
+*** You are running in headless mode.
+1550863799060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550863799060	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550863800740	Marionette	INFO	Listening on port 62852
+1550863800796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=572272718, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=572272718 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=115017877, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=115017877, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=115017877 line 1 > eval, line 1: unreachable code after return statement
+1550863808624	Marionette	INFO	Stopped listening on port 62852
+[Child 14588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bui[Parent 10724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 184[Parent 10724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 488, Chrome_ChildThread] WARNING: pipe error: 1091550863860277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.lP687ze8nxHn"
+*** You are running in headless mode.
+1550863860782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550863860782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550863862472	Marionette	INFO	Listening on port 62915
+1550863862529	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550863885233	Marionette	INFO	Stopped listening on port 62915
+[Child 14556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1455[Parent 16632, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550863871508	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550863873551	Marionette	INFO	Listening on port 62958
+1550863873616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=634941822, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=634941822 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1407004436, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1407004436, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1407004436 line 1 > eval, line 1: unreachable code after return statement
+1550863881914	Marionette	INFO	Stopped listening on port 62958
+[Parent 17948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child [Parent 17948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 81550863929047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.lX1i27aT9GnK"
+*** You are running in headless mode.
+1550863929525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550863929525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550863931366	Marionette	INFO	Listening on port 63029
+1550863931796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550863952406	Marionette	INFO	Stopped listening on port 63029
+[Parent 18344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18396, Censhots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550863940363	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550863941945	Marionette	INFO	Listening on port 63070
+1550863942095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=319519460, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=2030346841, line 1: unreachable code after return statement
+1550863949841	Marionette	INFO	Stopped listening on port 63070
+[Parent 18160, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550864499408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.TggoE9nQAK6V"
+*** You are running in headless mode.
+1550864499952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550864499953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550864501629	Marionette	INFO	Listening on port 63208
+1550864501659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550864523451	Marionette	INFO	Stopped listening on port 63208
+[Child 11308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11308, Chrome_ChildTYIh"
+*** You are running in headless mode.
+1550864511521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550864511521	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550864513224	Marionette	INFO	Listening on port 63249
+1550864513233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2109417200, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2109417200, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2109417200 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=2067701914, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=2067701914 line 1 > eval, line 1: unreachable code after return statement
+1550864520722	Marionette	INFO	Stopped listening on port 63249
+[[Child 11696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11691550864624228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.lUUuMEG5lrPi"
+*** You are running in headless mode.
+1550864624776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550864624777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550864626983	Marionette	INFO	Listening on port 63318
+1550864627002	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+ding extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550864657875	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550864659706	Marionette	INFO	Listening on port 63355
+1550864660126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550864682831	Marionette	INFO	Stopped listening on port 63355
+[Child 18308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 1425: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+ionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=902923085, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=902923085 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1558597394, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1558597394, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1558597394 line 1 > eval, line 1: unreachable code after return statement
+1550864680337	Marionette	INFO	Stopped listening on port 63397
+[Child 16980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/[Parent 12532, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550864804126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.uJ0DssKp8ZrV"
+*** You are running in headless mode.
+1550864804638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550864804638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550864806489	Marionette	INFO	Listening on port 63467
+1550864806890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550864817368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\1550864830860	Marionette	INFO	Stopped listening on port 63467
+[Child 4804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4804, Chrome_ChildThread] WARNING:[Parent 18424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 441 will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=867276048, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1067429556, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1067429556, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1067429556 line 1 > eval, line 1: unreachable code after return statement
+1550864828083	Marionette	INFO	Stopped listening on port 63510
+[Child 6060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chro[Parent 13100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14548,[Parent 13100, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550864871298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.gYpxK1RThiZj"
+*** You are running in headless mode.
+1550864871809	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550864871810	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550864873735	Marionette	INFO	Listening on port 63573
+1550864874083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550864894354	Marionette	INFO	Stopped listening on port 63573
+[Child 14200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14200, Chrome_ChildT[Parent 17568, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+lla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550864882558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550864884184	Marionette	INFO	Listening on port 63616
+1550864884272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1001048888, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1001048888, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1001048888 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1880537727, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1880537727, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1880537727 line 1 > eval, line 1: unreachable code after return statement
+1550864891853	Marionette	INFO	Stopped listening on port 63616
+[Child 14828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14828, Chrome_Child[Parent 17004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 17004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16424,[Parent 17004, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550865167514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.hCSmdmBxylwa"
+*** You are running in headless mode.
+1550865167973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550865167973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550865169652	Marionette	INFO	Listening on port 63714
+1550865169663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550865191035	Marionette	INFO	Stopped listening on port 63714
+[Child 8888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8888, Chrome_ChilJavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 1425: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+[Parent 18240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 5500rning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=975471921, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=975471921 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=214068135, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=214068135 line 1 > eval, line 1: unreachable code after return statement
+1550865187580	Marionette	INFO	Stopped listening on port 63753
+[Parent 18032, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18140, Chrome_ChildT[Child 8984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 8984, Ch1550865337504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.oKfek4cStJlX"
+*** You are running in headless mode.
+1550865337933	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550865337933	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550865339613	Marionette	INFO	Listening on port 63816
+1550865339659	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550865361047	Marionette	INFO	Stopped listening on port 63816
+[Child 2528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2528, Chrome[Parent 18360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 18360, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7ywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1023236691, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1023236691 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1274606623, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1274606623, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1274606623 line 1 > eval, line 1: unreachable code after return statement
+1550865358491	Marionette	INFO	Stopped listening on port 63856
+[Parent 6540, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11550865520095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.JEdlk14LR19S"
+*** You are running in headless mode.
+1550865520597	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550865520598	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550865522286	Marionette	INFO	Listening on port 63923
+1550865522344	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550865543338	Marionette	INFO	Stopped listening on port 63923
+[Child 14616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14616, Chrome_ChildTh6h"
+*** You are running in headless mode.
+1550865531539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550865531539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550865533311	Marionette	INFO	Listening on port 63964
+1550865533351	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1447602283, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1447602283, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1447602283 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1259931862, line 1: unreachable code after return statement
+1550865540807	Marionette	INFO	Stopped listening on port 63964
+[Parent 3576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3576, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17968, Chrome_ChildThread] WARNING: pipe error: 1550865599348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.o9M7oKgz34pR"
+*** You are running in headless mode.
+1550865599935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550865599935	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550865602192	Marionette	INFO	Listening on port 64037
+1550865602604	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550865625820	Marionette	INFO	Stopped listening on port 64037
+[Child 17848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17848, Chrome_Chi[Parent 17500, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14320, Chrome_ChildThread.org': Reading manifest: Invalid host permission: about:reader*
+1550865615885	Marionette	INFO	Listening on port 64080
+1550865616011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1733448784, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1733448784 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1009855182, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1009855182, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1009855182 line 1 > eval, line 1: unreachable code after return statement
+1550865623262	Marionette	INFO	Stopped listening on port 64080
+[Parent 12224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 12224, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17131550865645329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.xBdcWJInVhQf"
+*** You are running in headless mode.
+1550865645902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550865645903	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550865648231	Marionette	INFO	Listening on port 64139
+1550865648605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550865670915	Marionette	INFO	Stopped listening on port 64139
+[Child 17600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 176[Child 18132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, linion 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550865658205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550865659866	Marionette	INFO	Listening on port 64182
+1550865659942	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=490382532, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=490382532 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1680748630, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1680748630 line 1 > eval, line 1: unreachable code after return statement
+1550865666971	Marionette	INFO	Stopped listening on port 64182
+[Parent 14392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 14392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1701550865776134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.IrkPJlbhlalm"
+*** You are running in headless mode.
+1550865776706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550865776706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550865778500	Marionette	INFO	Listening on port 64251
+1550865778928	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550865801979	Marionette	INFO	Stopped listening on port 64251
+[Parent 5380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13692[Parent 5380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1071[Parent 5380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+3.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=849678017, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=650882447, line 1: unreachable code after return statement
+1550865799433	Marionette	INFO	Stopped listening on port 64295
+[Child 12712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12[Parent 18008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6928, Ch1550865845516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.07BdAeyALUdB"
+*** You are running in headless mode.
+1550865846013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550865846014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550865848139	Marionette	INFO	Listening on port 64357
+1550865848309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550865873038	Marionette	INFO	Stopped listening on port 64357
+[Parent 17376, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+emp\\rust_mozprofile.NWUKtwMRMJWw"
+*** You are running in headless mode.
+1550865861252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550865861252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550865862986	Marionette	INFO	Listening on port 64398
+1550865863069	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=860023129, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=860023129 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=2065804604, line 1: unreachable code after return statement
+1550865870503	Marionette	INFO	Stopped listening on port 64398
+[Parent 17508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 17508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 17508, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550865915171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.jXUvs6tSOWwm"
+*** You are running in headless mode.
+1550865915657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550865915657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550865917502	Marionette	INFO	Listening on port 64460
+1550865917951	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550865938321	Marionette	INFO	Stopped listening on port 64460
+[Child 9204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9mozprofile.9QpZhM7p9RuE"
+*** You are running in headless mode.
+1550865926698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550865926698	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550865928416	Marionette	INFO	Listening on port 64502
+1550865928433	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1849404183, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1849404183, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1849404183 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1092583935, line 1: unreachable code after return statement
+1550865935811	Marionette	INFO	Stopped listening on port 64502
+[Parent 14268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550866000779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.gOxK9wNWwv2G"
+*** You are running in headless mode.
+1550866001260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550866001260	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550866003180	Marionette	INFO	Listening on port 64571
+1550866003554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550866023743	Marionette	INFO	Stopped listening on port 64571
+[Child 12000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16020, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1728,[Parent 16020, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14//d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1097893945, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1097893945 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=2145568921, line 1: unreachable code after return statement
+1550866021296	Marionette	INFO	Stopped listening on port 64612
+[Parent 16072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16072, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1550866061082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.rW8xtq4OKkrS"
+*** You are running in headless mode.
+1550866061668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550866061668	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550866063970	Marionette	INFO	Listening on port 64674
+1550866064360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550866073054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\1550866086690	Marionette	INFO	Stopped listening on port 64674
+[Child 16640, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16640, Chrome_ChildTh[Parent 18132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 18132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2ywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2018739901, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2018739901 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1499720679, line 1: unreachable code after return statement
+1550866083115	Marionette	INFO	Stopped listening on port 64719
+[Child 7784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7784, Chrome_Chil1550885087225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.pxRQX9Dfa7EX"
+*** You are running in headless mode.
+1550885087708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550885087708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550885089460	Marionette	INFO	Listening on port 50188
+1550885089484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550885112174	Marionette	INFO	Stopped listening on port 50188
+[Child 5388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 538[Child 5400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child hots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550885099461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550885101148	Marionette	INFO	Listening on port 50228
+1550885101184	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1601028941, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1601028941, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1601028941 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1244016355, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1244016355, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1244016355 line 1 > eval, line 1: unreachable code after return statement
+1550885109779	Marionette	INFO	Stopped listening on port 50228
+[Child 1012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 1352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 1352, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 112[Child 2532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 2532, Chrome_ChildThread] WARNIN1550885129868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.dSyrLwTKEUQQ"
+*** You are running in headless mode.
+1550885130337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550885130337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550885132278	Marionette	INFO	Listening on port 50292
+1550885132646	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550885157680	Marionette	INFO	Stopped listening on port 50292
+[Parent 4984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1[Parent 4984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4632, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4632[Parent 4984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 1425: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+IYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2050521438, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=2050521438 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1279905749, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1279905749, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=1279905749 line 1 > eval, line 1: unreachable code after return statement
+1550885155281	Marionette	INFO	Stopped listening on port 50333
+[Parent 340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 6831550885227697	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Marcos\\AppData\\Local\\Temp\\rust_mozprofile.rIOXvMOgJLSM"
+*** You are running in headless mode.
+1550885228176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1550885228176	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550885230201	Marionette	INFO	Listening on port 50403
+1550885230471	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bet365.es/betslip/javascript/min/20190221101557/betslip.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1550885253057	Marionette	INFO	Stopped listening on port 50403
+[Parent 10400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1100, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1100[Child 7152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7152,ding extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1550885241622	Marionette	INFO	Listening on port 50444
+1550885241787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-canvas.js?v=1540222734, line 1: String.slice is deprecated; use String.prototype.slice instead
+JavaScript warning: https://d2zywfiolv4f83.cloudfront.net/js/ws-js-stats.js?v=1540222734, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1089803700, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1089803700, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1089803700 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=342595118, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=342595118, line 1: unreachable code after return statement
+JavaScript warning: https://www.whoscored.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=342595118 line 1 > eval, line 1: unreachable code after return statement
+1550885250668	Marionette	INFO	Stopped listening on port 50444
+[Child 1372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1372, Ch[Parent 9884, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
