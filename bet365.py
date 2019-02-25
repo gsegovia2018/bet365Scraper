@@ -23,7 +23,6 @@ import pandas as pd
 from selenium.webdriver.firefox.options import Options
 from tenisStatsScraper import scrape
 from futStatsScraper import scrapefut
-from difflib import SequenceMatcher
 import unidecode
 
 options = Options()
@@ -183,7 +182,7 @@ if (sport == "futbol") or (sport == "fútbol") or (sport == "fut") or (sport == 
     df['AAE'] = awayAerialWon    
     df['ARA'] = awayRating
     print(df.to_string())
-    df.to_csv(r'C:\Users\Marcos\Documents\Python\bet365Scraper\futbol_csv\cuotas_futbol_' + str(datetime.datetime.now().strftime("%Y_%m_%d")) + '.csv',index=False)
+    df.to_csv('football_' + str(datetime.datetime.now().strftime("%Y_%m_%d")) + '.csv',index=False)
 
 if(sport == "tennis") or (sport == "tenis") or (sport == "ten"):
     # Definimos 4 variables, la primera tendra los primeros tenistas la segunda los segundos, la tercera la cuota del primer
@@ -237,8 +236,6 @@ if(sport == "tennis") or (sport == "tenis") or (sport == "ten"):
                 ten_2.extend([player2])
                 # Metemos el nombre del torneo por cada partido que haya
                 torneo.extend([t])
-                for i in range(len(dataPlayer1)):
-                    print(dataPlayer1[i])
     df = pd.DataFrame()
     df['tenista_1'] = ten_1
     df['tenista_2'] = ten_2

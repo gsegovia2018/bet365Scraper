@@ -26,7 +26,13 @@ def scrapefut():
     #browser.minimize_window()
     # Después cargar el driver vamos a la dirección que queramos, en este caso la pagina de bet365.
     browser.get("https://www.whoscored.com/Regions/206/Tournaments/4/Seasons/7466/Stages/16546/TeamStatistics/Spain-La-Liga-2018-2019")
-    time.sleep(4)
+    timeout = 10
+    try:
+        WebDriverWait(browser,timeout).until(EC.presence_of_element_located((By.XPATH, '//*[@id="top-team-stats-summary-content"]')))
+    except TimeoutException:
+        print("Timed out waiting for futbol stats main page to load")
+        browser.quit()     
+        sys.exit()
     soup = BeautifulSoup(browser.page_source, 'html.parser')
     browser.close()
     teams = []
